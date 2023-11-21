@@ -1,0 +1,6 @@
+Bubble Sort:So sánh các phần tử để đặt các phần tử lớn nhất vào vị trí cuối cùng.(Hoán đổi)
+	Độ Phức tập là:O(n^2).
+Selection Sort:So sánh các phần tử để đặt các phần tử nhỏ nhất vào vị trí phía trước.(Hoán đổi)
+	Độ Phức tập là:O(n^2)
+So sánh 2 cách sắp xếp:Mặc dù cả thuật toán sắp xếp bong bóng và sắp xếp lựa chọn đều có độ phức tạp theo thời gian viết hoa chữ thường trung bình là O (n2), nhưng sắp xếp bong bóng hầu như luôn vượt trội hơn so với sắp xếp lựa chọn. Điều này là do số lượng hoán đổi cần thiết của hai thuật toán (loại bong bóng cần nhiều hoán đổi hơn). Nhưng do tính đơn giản của sắp xếp bong bóng, kích thước mã của nó rất nhỏ. Tính ổn định là một điểm khác biệt trong hai thuật toán này. Một thuật toán sắp xếp ổn định, là một thuật toán sắp xếp giữ lại thứ tự các bản ghi nếu danh sách chứa các phần tử có giá trị bằng nhau. Theo nghĩa đó, sắp xếp lựa chọn không phải là một thuật toán ổn định trong khi sắp xếp bong bóng là một thuật toán ổn định.
+
